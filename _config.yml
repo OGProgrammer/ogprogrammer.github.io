@@ -22,6 +22,7 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
+ - Web & Native Development
  - PHP
  - Symfony
  - Laravel
@@ -35,12 +36,21 @@ skills:
  - Linux/Mac/Win
  - Android/iOS
  - SQL
+ - Internationationalization
  - AWS/GCP
  - Groovy
  - Java
  - REST
  - Tech Architecture
-
+ - Marketing
+ - Gaming
+ - Real Estate
+ - Printers
+ - Embeded
+ - C/C++
+ - C#/VB .NET
+ - Solidity
+ - Blockchain
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://www.ogprogrammer.com/feed/
 
@@ -50,13 +60,13 @@ roles:
    start: 2017
    end: 2018
    employer: VehicleHistory.com
-   description: Scouting, screening, hiring, and building teams of backend/frontend developers. <br />Established agile methodologies and used Jira to track projects. <br />Lead architecture design of a micro-service based system. Using Terraform to document the AWS/ECS stack. <br />Installed and setup Jenkins for Automated Testing & Deployments.
+   description: Screening, hiring, and building teams of backend/frontend developers. <br />Established agile methodologies and implemented Jira to track projects. <br />Lead architecture design of a micro-service based architecture. Using Jenkins+Docker+Terraform to raise the AWS/ECS stack. <br />Setup Jenkins for Automated Testing & Deployments of the various PHP services.
  - title: Chief Technology Officer
    start: 2016
    end: 2017
    employer: EngagedNation.com
-   description: I did stuff.
- - title: Associate Manager
+   description: Taught a team of five how to use Git to version control websites and dependencies via composer & npm. <br />Scouted and worked with local vendors to assist with large scale enterprise integrations in the Gaming industry.
+ - title: Associate Manager;
    start: 2005
    end: 2012
    employer: Accenture
