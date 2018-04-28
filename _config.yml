@@ -60,21 +60,31 @@ roles:
    start: 2017
    end: 2018
    employer: VehicleHistory.com
-   description: Screening, hiring, and building teams of backend/frontend developers. <br />Established agile methodologies and implemented Jira to track projects. <br />Lead architecture design of a micro-service based architecture. Using Jenkins+Docker+Terraform to raise the AWS/ECS stack. <br />Setup Jenkins for Automated Testing & Deployments of the various PHP services.
+   description: Scouting and hiring five of devs for frontend, architect, and full stack roles. <br />Established agile methodologies & implemented Jira to track projects. <br />Lead architecture design of a micro-service based architecture. Using Jenkins+Docker+Terraform with AWS/ECS stacks. <br />Setup Jenkins for Automated Testing & Deployments of the various PHP services.
  - title: Chief Technology Officer
    start: 2016
    end: 2017
    employer: EngagedNation.com
-   description: Taught a team of five how to use Git to version control websites and dependencies via composer & npm. <br />Scouted and worked with local vendors to assist with large scale enterprise integrations in the Gaming industry.
- - title: Associate Manager;
+   description: Taught a team of five how to use Git to version control websites and dependencies via composer & npm. <br />Screened and worked with local vendors to assist with large scale enterprise integrations in the Gaming industry.
+ - title: Software Architect <br />Lead Developer <br />PHP Developer
+   start: 2012
+   end: 2017
+   employer: The Selling Source
+   description: Worked my way through the ranks from PHP Dev to Architect over my tenure there. <br />Quickly learned the complex systems written in various languages like PHP, Java, and Ruby. <br />Built tools & systems to integrate with partners using APIs, XSLT, SOAP, XML, and JSON. <br />Worked with large teams both in and out of the office on various projects to complete business initiatives.
+ - title: Software Developer
+   start: 2010
+   end: 2012
+   employer: Star Micronics
+   description: Created SDK packages for Star's point of sale printers using multiple interfaces and languages.<br />Prototyped one off projects for desktop and mobile using various interfaces such as WiFi, Bluetooth, LAN, Serial, Parallel, and USB stacks. <br />Worked with large decentralized team throughout the US, UK, Japan, and South America.
+ - title: Software Architect <br />Lead Developer <br />PHP Developer
    start: 2005
    end: 2012
-   employer: Accenture
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+   employer: The Selling Source
+   description: Worked my way through the ranks from PHP Dev to Architect over my tenure there. <br />Quickly learned the complex systems written in various languages like PHP, Java, and Ruby. <br />Built tools & systems to integrate with partners using APIs, XSLT, SOAP, XML, and JSON. <br />Worked with large teams both in and out of the office on various projects to complete business initiatives.
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
+ - level: Assocites of Science (B.Sc.)
    date: 2003
    subject: Artificial Intelligence and Computer Science
    school: University of Birmingham
