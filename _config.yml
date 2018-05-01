@@ -22,13 +22,25 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Web & Native Development
+ - Software Architecture
+ - Linux/Mac/Win
+ - Android/iOS
+ - AWS
+ - EKS/ECS
+ - Docker
+ - Terraform
+ - Jenkins
  - PHP
  - Symfony
  - Laravel
  - Behat
  - BDD/TDD
  - PHPUnit
+ - Smart Contracts
+ - Solidity
+ - Blockchain
+ - Serverless
+ - Lambda
  - ActiveMQ
  - RabbitMQ
  - SQS
@@ -36,24 +48,19 @@ skills:
  - Redis
  - Elasticache
  - MySQL
+ - MSSQL
  - RDS
  - MongoDB
  - Phaser
  - HTML5
  - ES6
- - Jenkins
- - Docker
- - Terraform
  - Bash
- - Linux/Mac/Win
- - Android/iOS
- - SQL
  - I18N
- - AWS/GCP
+ - Azure
+ - GCP
  - Groovy
  - Java
  - REST
- - Tech Architecture
  - Marketing
  - Gaming
  - Real Estate
@@ -63,10 +70,7 @@ skills:
  - Python
  - Objective-C
  - C/C++
- - C#/VB .NET
- - Smart Contracts
- - Solidity
- - Blockchain
+ - C#/VB.NET
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://www.ogprogrammer.com/feed/
@@ -77,12 +81,22 @@ roles:
    start: 2017
    end: 2018
    employer: VehicleHistory.com
-   description: Scouting and hiring five of devs for frontend, architect, and full stack roles. <br />Established agile methodologies & implemented Jira to track projects. <br />Lead architecture design of a micro-service based architecture. Using Jenkins+Docker+Terraform with AWS/ECS stacks. <br />Setup Jenkins for Automated Testing & Deployments of the various PHP services.
+   description: >
+             <ul>
+               <li>Scouting and hiring five of devs for frontend, architect, and full stack roles.</li>
+               <li>Established agile methodologies & implemented Jira to track projects.</li>
+               <li>Lead architecture design of a micro-service based architecture using Jenkins+Docker+Terraform with AWS/ECS stacks.</li>
+               <li>Setup Jenkins for Automated Testing & Deployments of the various PHP services.</li>
+             </ul>
  - title: CTO
    start: 2016
    end: 2017
    employer: EngagedNation.com
-   description: Taught a team of five how to use Git to version control websites and dependencies via composer & npm. <br />Screened and worked with local vendors to assist with large scale enterprise integrations in the Gaming industry.
+   description: >
+             <ul>
+               <li>Mentored a team of five how to use Git to version control websites and dependencies via composer & npm.</li>
+               <li>Screened and worked with local vendors to assist with large scale enterprise integrations in the Gaming industry.</li>
+             </ul>
  - title: Software Architect <br /><br />Lead Developer <br /><br />PHP Developer
    start: 2012
    end: 2017
