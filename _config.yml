@@ -155,7 +155,7 @@ roles:
 
 #Education is required
 education:
- - level: Assocites of Applied Science
+ - level: Associates of Applied Science
    date: 2010
    subject: Software Application Programming
    school: ITT Technical Institute
@@ -177,8 +177,6 @@ coursera:
 github:
  - OGProgrammer/terraform-aws-jenkins
  - OGProgrammer/terraform-aws-ecs-service
- - OGProgrammer/terraform-aws-init
- - OGProgrammer/terraform-example-manifest
  - OGProgrammer/jenkins-pipeline-groovy
  - OGProgrammer/terraform-aws-ecs-infrastructure
  - OGProgrammer/automated-reports
@@ -189,7 +187,6 @@ github:
  - OGProgrammer/RuinedPaintingGame
  - OGProgrammer/docker-php7.1-fpm-nginx
  - OGProgrammer/docker-php-example
- - aenglander/performer-pay
 
 #Stackoverflow flair is optional
 #stackoverflow:
