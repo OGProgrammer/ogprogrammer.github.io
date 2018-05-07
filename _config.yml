@@ -1,3 +1,6 @@
+# Jekyll Settings
+exclude: ['.idea', 'Gemfile.lock', 'Gemfile']
+
 # Site settings
 title: Joshua Copeland
 twitter_username: ogprogrammer
@@ -73,22 +76,22 @@ skills:
  - C#/VB.NET
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://www.ogprogrammer.com/feed/
+#blogfeed: https://www.ogprogrammer.com/feed/
 
 #Work experience is required
 roles:
- - title: CTO
+ - title: Chief Technology Officer
    start: 2017
    end: 2018
    employer: VehicleHistory.com
    description: >
              <ul>
-               <li>Scouting and hiring five of devs for frontend, architect, and full stack roles.</li>
+               <li>Lead hiring and built teams of frontend, architect, and full stack roles.</li>
                <li>Established agile methodologies & implemented Jira to track projects.</li>
                <li>Lead architecture design of a micro-service based architecture using Jenkins+Docker+Terraform with AWS/ECS stacks.</li>
                <li>Setup Jenkins for Automated Testing & Deployments of the various PHP services.</li>
              </ul>
- - title: CTO
+ - title: Chief Technology Officer
    start: 2016
    end: 2017
    employer: EngagedNation.com
@@ -101,34 +104,61 @@ roles:
    start: 2012
    end: 2017
    employer: The Selling Source
-   description: Worked my way through the ranks from PHP Dev to Architect over my tenure there. <br />Quickly learned the complex systems written in various languages like PHP, Java, and Ruby. <br />Built tools & systems to integrate with partners using APIs, XSLT, SOAP, XML, and JSON. <br />Worked with large teams both in and out of the office on various projects to complete business initiatives.
+   description: >
+             <ul>
+               <li>Worked my way through the ranks from PHP Dev to Architect over my tenure there.</li>
+               <li>Quickly learned the complex systems written in various languages like PHP, Java, and Ruby.</li>
+               <li>Built tools & systems to integrate with partners using APIs, XSLT, SOAP, XML, and JSON.</li>
+               <li>Worked on/off with half a dozen teams on complex business requirements.</li>
+             </ul>
  - title: Software Developer
    start: 2010
    end: 2012
    employer: Star Micronics
-   description: Created SDK packages for Star's point of sale printers using multiple interfaces and languages such as C#, VB.NET, C++, Java, & Python. <br />Prototyped one off projects for desktop and mobile (iOS & Andriod) using various interfaces such as WiFi, Bluetooth, LAN, Serial, Parallel, and USB stacks. <br />Worked with large decentralized team throughout the US, UK, Japan, and South America.
+   description: >
+             <ul>
+               <li>Created SDK packages for Star's point of sale printers using multiple interfaces and languages such as C#, VB.NET, C++, Java, & Python.</li>
+               <li>Prototyped one off projects for desktop and mobile (iOS & Android) using various interfaces such as WiFi, Bluetooth, LAN, Serial, Parallel, and USB stacks.</li>
+               <li>Worked with large decentralized team throughout the US, UK, Japan, and South America.</li>
+             </ul>
  - title: Programmer
    start: 2010
    end: 2010
    employer: ReelTV
-   description: ➢ Quickly absorded most of the linux, mysql, c code, and hardware to run the modification boards in Nevada regulated gaming machines. <br />Assisted in the software and hardware development, installation, maintainance, and QA/testing. <br />Trained and supported customers at the Palms and various other Casinos. Communicated with the Nevada State Gaming Board and GLI for gaming device testing.
+   description: >
+             <ul>
+               <li>Developed on Linux using MySQL, "ANSI" C code, and embedded hardware to play ads on poker and slot machines.</li>
+               <li>Assisted in the software and hardware development, installation, maintenance, and QA/testing.</li>
+               <li>Installed on-premise server hardware and configured systems at various Casinos including the Palms.</li>
+               <li>Communicated with the Nevada State Gaming Board and GLI for gaming device testing.</li>
+             </ul>
  - title: Lead Programmer
    start: 2008
    end: 2010
    employer: General Operations
-   description: ➢ Productively multitasked between managing, programming, and troubleshooting for 200+ clients on over 10,000+ domain names. <br />Regularly made improvements to the company’s approach, consistency, re-usability, documentation style, and development methodologies. <br />Managed team of 6 remote and in-house developers pushing out a site a day.
+   description: >
+             <ul>
+               <li>Productively multitasked between managing, programming, and troubleshooting for 200+ clients on over 10,000+ domain names.</li>
+               <li>Regularly made improvements to the company’s approach, consistency, re-usability, documentation style, and development methodologies.</li>
+               <li>Managed team of 6 remote and in-house developers pushing out a site a day.</li>
+             </ul>
  - title: IT Director
    start: 2004
    end: 2008
    employer: RE/MAX Towers
-   description: Created and managed the company’s PHP sites by adding and updating SEO and compiling to the strict HTML W3C markup standards and got them ranking high quickly in google. <br />Built custom Java applications that interfaced with remote databases to update REALTORS on their properties and transactions. <br />Self-managed multi-office VPNs, Linux, & Microsoft Exchange servers used for sensitive transaction data.
+   description: >
+             <ul>
+               <li>Created and managed the company’s PHP sites by adding and updating SEO and compiling to the strict HTML W3C markup standards and got them ranking high quickly in google.</li>
+               <li>Built custom Java applications that interfaced with remote databases to update REALTORS on their properties and transactions.</li>
+               <li>Managed multiple office networks, VPNs, Linux, & Microsoft Exchange servers, and computers used for sensitive transaction data.</li>
+             </ul>
 
 #Education is required
 education:
- - level: Assocites of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Assocites of Applied Science
+   date: 2010
+   subject: Software Application Programming
+   school: ITT Technical Institute
 
 #This section is optional (as is the image link below)
 coursera:
@@ -145,23 +175,26 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
+ - OGProgrammer/terraform-aws-jenkins
+ - OGProgrammer/terraform-aws-ecs-service
+ - OGProgrammer/terraform-aws-init
+ - OGProgrammer/terraform-example-manifest
+ - OGProgrammer/jenkins-pipeline-groovy
+ - OGProgrammer/terraform-aws-ecs-infrastructure
+ - OGProgrammer/automated-reports
+ - OGProgrammer/docker-xdebug
+ - OGProgrammer/vagrant-xdebug
+ - OGProgrammer/xdebug-example
+ - OGProgrammer/doom-ascii-bash
+ - OGProgrammer/RuinedPaintingGame
+ - OGProgrammer/docker-php7.1-fpm-nginx
+ - OGProgrammer/docker-php-example
+ - aenglander/performer-pay
 
 #Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+#stackoverflow:
+#   profileurl: http://stackoverflow.com/users/258813/rhinds
+#   flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 #Mobile apps section is optional
 apps:

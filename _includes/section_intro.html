@@ -1,12 +1,40 @@
 <div id="introBubble" class="rounded_panel txt_lightgrey">
-	<div class="top-rounded-panel grey-bg">
-		<h1 id="user-intro">Introduction &amp; Background</h1>
-	</div>
-	<div class="content-rounded-panel">
-		<div id="introBlurb">
-			I am a Senior Software Architect working as a self-employed contractor. With over 15 years as a software developer & serial entrepreneur, it gives me a good blend of start-up and enterprise experience. <br/><br/>
-			Smart Contract Auditing & Solidity development is a big passion of mine and looking to start a local user group about it. I also host the <a href="http://phpvegas.com">PHP Vegas</a> users' group and regularly attend local tech events to speak and network.
-		</div>
-		<br>
-	</div>
+    <div class="top-rounded-panel grey-bg">
+        <h1 id="user-intro">Introduction &amp; Background</h1>
+    </div>
+    <div class="content-rounded-panel">
+        <div class="row">
+
+            <div class="col-md-7" id="introBlurb">
+                <p>
+                    I am a Senior Software Architect working as a self-employed contractor. With over 15 years as a
+                    software
+                    developer & serial entrepreneur, it gives me a good blend of start-up and enterprise experience.
+                    <br/><br/>
+                    Smart Contract Auditing & Solidity development is a big passion of mine and looking to start a local
+                    user
+                    group about it. I also host the <a target="_blank" href="http://phpvegas.com">PHP Vegas</a> users'
+                    group and regularly
+                    attend local tech events to speak and network.
+                </p>
+                <div id="skillsBubble" class="rounded_panel txt_lightgrey">
+                    <div class="top-rounded-panel grey-bg">
+                        <h1 id="user-skills">Skills</h1>
+                    </div>
+                    <div class="content-rounded-panel">
+
+                        <div id="skills">
+                            {% for skill in site.skills %}
+                            <span class="label label-info label-padded"> {{skill}} </span> &nbsp;
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-5" id="joshua-copeland">
+                <img src="/img/josh-copeland.jpg" class="img-thumbnail" alt="Joshua Copeland">
+            </div>
+        </div>
+    </div>
 </div>
