@@ -12,70 +12,70 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: https://www.ogprogrammer.com/
- - title: GitHub
-   url: https://github.com/ogprogrammer
-# - title: StackOverflow
-#   url: https://stackoverflow.com/users/3512214/ogprogrammer
-# - title: DZone
-#   url: https://dzone.com/users/3248538/ogprogrammer.html
- - title: LinkedIn
-   url: https://www.linkedin.com/in/ogprogrammer/
- - title: Contact
-   url: https://www.ogprogrammer.com/contact/
+  - title: Blog
+    url: https://www.ogprogrammer.com/
+  - title: GitHub
+    url: https://github.com/ogprogrammer
+  # - title: StackOverflow
+  #   url: https://stackoverflow.com/users/3512214/ogprogrammer
+  # - title: DZone
+  #   url: https://dzone.com/users/3248538/ogprogrammer.html
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ogprogrammer/
+  - title: Contact
+    url: https://www.ogprogrammer.com/contact/
 
 #Any buzzword skills you want to include
 skills:
- - Software Architecture
- - Linux/Mac/Win
- - Android/iOS
- - AWS
- - EKS/ECS
- - Docker
- - Terraform
- - Jenkins
- - PHP
- - Symfony
- - Laravel
- - Behat
- - BDD/TDD
- - PHPUnit
- - Smart Contracts
- - Solidity
- - Blockchain
- - Serverless
- - Lambda
- - ActiveMQ
- - RabbitMQ
- - SQS
- - Memcached
- - Redis
- - Elasticache
- - MySQL
- - MSSQL
- - RDS
- - MongoDB
- - Phaser
- - HTML5
- - ES6
- - Bash
- - I18N
- - Azure
- - GCP
- - Groovy
- - Java
- - REST
- - Marketing
- - Gaming
- - Real Estate
- - Printers
- - Embeded
- - Swift
- - Python
- - Objective-C
- - C/C++
- - C#/VB.NET
+  - Software Architecture
+  - Linux/Mac/Win
+  - Android/iOS
+  - AWS
+  - EKS/ECS
+  - Docker
+  - Terraform
+  - Jenkins
+  - PHP
+  - Symfony
+  - Laravel
+  - Behat
+  - BDD/TDD
+  - PHPUnit
+  - Smart Contracts
+  - Solidity
+  - Blockchain
+  - Serverless
+  - Lambda
+  - ActiveMQ
+  - RabbitMQ
+  - SQS
+  - Memcached
+  - Redis
+  - Elasticache
+  - MySQL
+  - MSSQL
+  - RDS
+  - MongoDB
+  - Phaser
+  - HTML5
+  - ES6
+  - Bash
+  - I18N
+  - Azure
+  - GCP
+  - Groovy
+  - Java
+  - REST
+  - Marketing
+  - Gaming
+  - Real Estate
+  - Printers
+  - Embeded
+  - Swift
+  - Python
+  - Objective-C
+  - C/C++
+  - C#/VB.NET
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://www.ogprogrammer.com/feed/
@@ -94,90 +94,90 @@ roles:
         <li>Train teams on the benefits of repeatable environments (Docker+Terraform).</li>
         <li>SEO Optimization, Social Media, WebSite, Branding (logos+fonts), and other services.</li>
       </ul>
- - title: Chief Technology Officer
-   start: 2017
-   end: 2018
-   employer: VehicleHistory.com
-   description: >
-             <ul>
-               <li>Led hiring and built teams of frontend, architect, and full stack roles.</li>
-               <li>Established agile methodologies & implemented Jira to track projects.</li>
-               <li>Lead architecture design of a micro-service based architecture using Jenkins+Docker+Terraform with AWS/ECS stacks.</li>
-               <li>Setup Jenkins for Automated Testing & Deployments of the various PHP services.</li>
-             </ul>
- - title: Chief Technology Officer
-   start: 2016
-   end: 2017
-   employer: EngagedNation.com
-   description: >
-             <ul>
-               <li>Mentored a team of five how to use Git to version control websites and dependencies via composer & npm.</li>
-               <li>Screened and worked with local vendors to assist with large scale enterprise integrations in the Gaming industry.</li>
-             </ul>
- - title: Software Architect <br /><br />Lead Developer <br /><br />PHP Developer
-   start: 2012
-   end: 2017
-   employer: The Selling Source
-   description: >
-             <ul>
-               <li>Worked my way through the ranks from PHP Dev to Architect over my tenure there.</li>
-               <li>Quickly learned the complex systems written in various languages like PHP, Java, and Ruby.</li>
-               <li>Built tools & systems to integrate with partners using APIs, XSLT, SOAP, XML, and JSON.</li>
-               <li>Worked on/off with half a dozen teams on complex business requirements.</li>
-             </ul>
- - title: Software Developer
-   start: 2010
-   end: 2012
-   employer: Star Micronics
-   description: >
-             <ul>
-               <li>Created SDK packages for Star's point of sale printers using multiple interfaces and languages such as C#, VB.NET, C++, Java, & Python.</li>
-               <li>Prototyped one off projects for desktop and mobile (iOS & Android) using various interfaces such as WiFi, Bluetooth, LAN, Serial, Parallel, and USB stacks.</li>
-               <li>Worked with large decentralized team throughout the US, UK, Japan, and South America.</li>
-             </ul>
- - title: Programmer
-   start: 2010
-   end: 2010
-   employer: ReelTV
-   description: >
-             <ul>
-               <li>Developed on Linux using MySQL, "ANSI" C code, and embedded hardware to play ads on poker and slot machines.</li>
-               <li>Assisted in the software and hardware development, installation, maintenance, and QA/testing.</li>
-               <li>Installed on-premise server hardware and configured systems at various Casinos including the Palms.</li>
-               <li>Communicated with the Nevada State Gaming Board and GLI for gaming device testing.</li>
-             </ul>
- - title: Lead Programmer
-   start: 2008
-   end: 2010
-   employer: General Operations
-   description: >
-             <ul>
-               <li>Productively multitasked between managing, programming, and troubleshooting for 200+ clients on over 10,000+ domain names.</li>
-               <li>Regularly made improvements to the company’s approach, consistency, re-usability, documentation style, and development methodologies.</li>
-               <li>Managed team of 6 remote and in-house developers pushing out a site a day.</li>
-             </ul>
- - title: IT Director
-   start: 2004
-   end: 2008
-   employer: RE/MAX Towers
-   description: >
-             <ul>
-               <li>Created and managed the company’s PHP sites by adding and updating SEO and compiling to the strict HTML W3C markup standards and got them ranking high quickly in google.</li>
-               <li>Built custom Java applications that interfaced with remote databases to update REALTORS on their properties and transactions.</li>
-               <li>Managed multiple office networks, VPNs, Linux, & Microsoft Exchange servers, and computers used for sensitive transaction data.</li>
-             </ul>
+  - title: Chief Technology Officer
+    start: 2017
+    end: 2018
+    employer: VehicleHistory.com
+    description: >
+      <ul>
+        <li>Led hiring and built teams of frontend, architect, and full stack roles.</li>
+        <li>Established agile methodologies & implemented Jira to track projects.</li>
+        <li>Lead architecture design of a micro-service based architecture using Jenkins+Docker+Terraform with AWS/ECS stacks.</li>
+        <li>Setup Jenkins for Automated Testing & Deployments of the various PHP services.</li>
+      </ul>
+  - title: Chief Technology Officer
+    start: 2016
+    end: 2017
+    employer: EngagedNation.com
+    description: >
+      <ul>
+        <li>Mentored a team of five how to use Git to version control websites and dependencies via composer & npm.</li>
+        <li>Screened and worked with local vendors to assist with large scale enterprise integrations in the Gaming industry.</li>
+      </ul>
+  - title: Software Architect <br /><br />Lead Developer <br /><br />PHP Developer
+    start: 2012
+    end: 2017
+    employer: The Selling Source
+    description: >
+      <ul>
+        <li>Worked my way through the ranks from PHP Dev to Architect over my tenure there.</li>
+        <li>Quickly learned the complex systems written in various languages like PHP, Java, and Ruby.</li>
+        <li>Built tools & systems to integrate with partners using APIs, XSLT, SOAP, XML, and JSON.</li>
+        <li>Worked on/off with half a dozen teams on complex business requirements.</li>
+      </ul>
+  - title: Software Developer
+    start: 2010
+    end: 2012
+    employer: Star Micronics
+    description: >
+      <ul>
+        <li>Created SDK packages for Star's point of sale printers using multiple interfaces and languages such as C#, VB.NET, C++, Java, & Python.</li>
+        <li>Prototyped one off projects for desktop and mobile (iOS & Android) using various interfaces such as WiFi, Bluetooth, LAN, Serial, Parallel, and USB stacks.</li>
+        <li>Worked with large decentralized team throughout the US, UK, Japan, and South America.</li>
+      </ul>
+  - title: Programmer
+    start: 2010
+    end: 2010
+    employer: ReelTV
+    description: >
+      <ul>
+        <li>Developed on Linux using MySQL, "ANSI" C code, and embedded hardware to play ads on poker and slot machines.</li>
+        <li>Assisted in the software and hardware development, installation, maintenance, and QA/testing.</li>
+        <li>Installed on-premise server hardware and configured systems at various Casinos including the Palms.</li>
+        <li>Communicated with the Nevada State Gaming Board and GLI for gaming device testing.</li>
+      </ul>
+  - title: Lead Programmer
+    start: 2008
+    end: 2010
+    employer: General Operations
+    description: >
+      <ul>
+        <li>Productively multitasked between managing, programming, and troubleshooting for 200+ clients on over 10,000+ domain names.</li>
+        <li>Regularly made improvements to the company’s approach, consistency, re-usability, documentation style, and development methodologies.</li>
+        <li>Managed team of 6 remote and in-house developers pushing out a site a day.</li>
+      </ul>
+  - title: IT Director
+    start: 2004
+    end: 2008
+    employer: RE/MAX Towers
+    description: >
+      <ul>
+        <li>Created and managed the company’s PHP sites by adding and updating SEO and compiling to the strict HTML W3C markup standards and got them ranking high quickly in google.</li>
+        <li>Built custom Java applications that interfaced with remote databases to update REALTORS on their properties and transactions.</li>
+        <li>Managed multiple office networks, VPNs, Linux, & Microsoft Exchange servers, and computers used for sensitive transaction data.</li>
+      </ul>
 
 #Education is required
 education:
- - level: Associates of Applied Science
-   date: 2010
-   subject: Software Application Programming
-   school: ITT Technical Institute
+  - level: Associates of Applied Science
+    date: 2010
+    subject: Software Application Programming
+    school: ITT Technical Institute
 
 #This section is optional (as is the image link below)
 coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
+  profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+  courses:
     - title: Functional Programming Principles in Scala
       link: https://www.coursera.org/course/progfun
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
@@ -189,18 +189,18 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - OGProgrammer/terraform-aws-jenkins
- - OGProgrammer/terraform-aws-ecs-service
- - OGProgrammer/jenkins-pipeline-groovy
- - OGProgrammer/terraform-aws-ecs-infrastructure
- - OGProgrammer/automated-reports
- - OGProgrammer/docker-xdebug
- - OGProgrammer/vagrant-xdebug
- - OGProgrammer/xdebug-example
- - OGProgrammer/doom-ascii-bash
- - OGProgrammer/RuinedPaintingGame
- - OGProgrammer/docker-php7.1-fpm-nginx
- - OGProgrammer/docker-php-example
+  - OGProgrammer/terraform-aws-jenkins
+  - OGProgrammer/terraform-aws-ecs-service
+  - OGProgrammer/jenkins-pipeline-groovy
+  - OGProgrammer/terraform-aws-ecs-infrastructure
+  - OGProgrammer/automated-reports
+  - OGProgrammer/docker-xdebug
+  - OGProgrammer/vagrant-xdebug
+  - OGProgrammer/xdebug-example
+  - OGProgrammer/doom-ascii-bash
+  - OGProgrammer/RuinedPaintingGame
+  - OGProgrammer/docker-php7.1-fpm-nginx
+  - OGProgrammer/docker-php-example
 
 #Stackoverflow flair is optional
 #stackoverflow:
@@ -209,16 +209,16 @@ github:
 
 #Mobile apps section is optional
 apps:
- - name: Chuck the Quiz
-   platform: Android
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
-   description: A basic early Android app (open sourced)
+  - name: Chuck the Quiz
+    platform: Android
+    url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
+    description: A basic early Android app (open sourced)
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
-   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although current role uses ColdFusion for server side web stack). I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+  <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
+  <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although current role uses ColdFusion for server side web stack). I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
+  <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
+  I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
+  As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
+  I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
