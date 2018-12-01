@@ -27,55 +27,62 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
-  - Software Architecture
-  - Linux/Mac/Win
-  - Android/iOS
-  - AWS
-  - EKS/ECS
-  - Docker
-  - Terraform
-  - Jenkins
-  - PHP
-  - Symfony
-  - Laravel
-  - Behat
-  - BDD/TDD
-  - PHPUnit
-  - Smart Contracts
-  - Solidity
-  - Blockchain
-  - Serverless
-  - Lambda
   - ActiveMQ
-  - RabbitMQ
-  - SQS
-  - Memcached
-  - Redis
-  - Elasticache
-  - MySQL
-  - MSSQL
-  - RDS
-  - MongoDB
-  - Phaser
-  - HTML5
-  - ES6
-  - Bash
-  - I18N
+  - Android
+  - ANSI C
+  - AWS
   - Azure
+  - Bash
+  - BDD/TDD
+  - Behat
+  - Blockchain
+  - C++
+  - C#
+  - DApps
+  - Docker
+  - EKS/ECS
+  - Elasticache
+  - Embeded
+  - ES6
+  - Gaming
   - GCP
   - Groovy
+  - HTML5
+  - I18N
+  - iOS
   - Java
-  - REST
+  - JavaScript
+  - Jenkins
+  - Lambda
+  - Laravel
+  - Linux/Mac/Win
   - Marketing
-  - Gaming
-  - Real Estate
-  - Printers
-  - Embeded
-  - Swift
-  - Python
+  - Memcached
+  - MongoDB
+  - MSSQL
+  - MySQL
   - Objective-C
-  - C/C++
-  - C#/VB.NET
+  - Phaser
+  - PHP
+  - PHPUnit
+  - Printers
+  - Python
+  - RabbitMQ
+  - RDS
+  - React.js
+  - Real Estate
+  - Redis
+  - REST
+  - Ruby
+  - Serverless
+  - Smart Contracts
+  - Software Architecture
+  - Solidity
+  - SQS
+  - Swift
+  - Symfony
+  - Terraform
+  - VB.NET
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://www.ogprogrammer.com/feed/
