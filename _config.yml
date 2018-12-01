@@ -82,13 +82,25 @@ skills:
 
 #Work experience is required
 roles:
+  - title: CEO & Founder
+    start: 2018
+    employer: RemoteDevForce.com
+    description: >
+      <ul>
+        <li>Freelance contracting for PHP & React projects.</li>
+        <li>Helping teams setup CI/CD Pipelines with AWS CodeBuild, GitLab, or Jenkins.</li>
+        <li>Developing complex applications with Laravel, Symfony, and other frameworks.</li>
+        <li>Building custom WordPress plugins and high-traffic sites.</li>
+        <li>Train teams on the benefits of repeatable environments (Docker+Terraform).</li>
+        <li>SEO Optimization, Social Media, WebSite, Branding (logos+fonts), and other services.</li>
+      </ul>
  - title: Chief Technology Officer
    start: 2017
    end: 2018
    employer: VehicleHistory.com
    description: >
              <ul>
-               <li>Lead hiring and built teams of frontend, architect, and full stack roles.</li>
+               <li>Led hiring and built teams of frontend, architect, and full stack roles.</li>
                <li>Established agile methodologies & implemented Jira to track projects.</li>
                <li>Lead architecture design of a micro-service based architecture using Jenkins+Docker+Terraform with AWS/ECS stacks.</li>
                <li>Setup Jenkins for Automated Testing & Deployments of the various PHP services.</li>
