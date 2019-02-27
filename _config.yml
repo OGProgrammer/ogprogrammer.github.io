@@ -12,6 +12,8 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
+  - title: Remote Dev Force
+    url: https://www.remotedevforce.com/
   - title: Blog
     url: https://www.ogprogrammer.com/
   - title: GitHub
