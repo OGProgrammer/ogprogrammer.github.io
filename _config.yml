@@ -204,7 +204,6 @@ github:
   - OGProgrammer/terraform-aws-ecs-service
   - OGProgrammer/jenkins-pipeline-groovy
   - OGProgrammer/terraform-aws-ecs-infrastructure
-  - OGProgrammer/automated-reports
   - OGProgrammer/docker-xdebug
   - OGProgrammer/vagrant-xdebug
   - OGProgrammer/xdebug-example
