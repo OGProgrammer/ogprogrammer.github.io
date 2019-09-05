@@ -199,6 +199,7 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
+  - RemoteDevForce/wordpress-block-type-example
   - OGProgrammer/terraform-aws-jenkins
   - OGProgrammer/terraform-aws-ecs-service
   - OGProgrammer/jenkins-pipeline-groovy
