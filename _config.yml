@@ -201,15 +201,9 @@ coursera:
 github:
   - OGProgrammer/terraform-aws-jenkins
   - OGProgrammer/terraform-aws-ecs-service
-  - OGProgrammer/jenkins-pipeline-groovy
   - OGProgrammer/terraform-aws-ecs-infrastructure
-  - OGProgrammer/docker-xdebug
-  - OGProgrammer/vagrant-xdebug
   - OGProgrammer/xdebug-example
-  - OGProgrammer/doom-ascii-bash
   - OGProgrammer/RuinedPaintingGame
-  - OGProgrammer/docker-php7.1-fpm-nginx
-  - OGProgrammer/docker-php-example
   - RemoteDevForce/wordpress-block-type-example
 
 #Stackoverflow flair is optional
